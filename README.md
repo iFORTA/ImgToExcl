@@ -102,7 +102,6 @@ pixel-data-exporter/
 ├── main.py              # 主程序入口
 ├── requirements.txt     # 依赖列表
 ├── README.md            # 项目说明
-├── LICENSE              # MIT 许可证
 └── screenshot.png       # 界面截图（可选）
 ```
 
@@ -150,12 +149,6 @@ pixel-data-exporter/
 
 这是一个“纪念品”项目，欢迎 Fork 或提交 Issue，但可能不会频繁更新。  
 如果你想在此基础上继续开发，非常欢迎！
-
----
-
-## 📄 许可证
-
-本项目采用 [MIT License](LICENSE) 开源。
 
 ---
 
