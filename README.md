@@ -3,7 +3,7 @@
 > **一个将图片像素数据导出为Excel表格的Python小工具**  
 > *用最朴素的方式，让图片“数据化”*
 
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-ff69b4)](https://docs.python.org/3/library/tkinter.html)
 
@@ -39,7 +39,7 @@
 
 ### 环境要求
 
-- Python 3.7+
+- Python 3.10+
 - pip
 
 ### 安装依赖
@@ -72,7 +72,7 @@ pyinstaller --onefile --noconsole --icon=your_icon.ico main.py
 
 ### 界面预览
 
-![界面截图](screenshot.png)  <!-- 你可以放一张截图 -->
+![界面截图](screenshot.png)
 
 ### 操作步骤
 
