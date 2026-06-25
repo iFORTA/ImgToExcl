@@ -1,4 +1,4 @@
-# 🖼️ 像素数据导出工具 (Pixel Data Exporter)
+# 🖼️ 像素数据导出工具 (ImgToExcl)
 
 > **一个将图片像素数据导出为Excel表格的Python小工具**  
 > *用最朴素的方式，让图片“数据化”*
