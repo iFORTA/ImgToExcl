@@ -20,7 +20,7 @@ def open_img():
         imgH.set(im_size[0])
         imgW.set(im_size[1])
         # 显示图片预览
-        if im_size[0] > im_size[0]:
+        if im_size[0] > im_size[1]: #宽 > 高，横向图片
             suggest_width = int(im_size[0] / (im_size[0] / gen_pixlsize))
             suggest_height = int(im_size[1] / (im_size[0] / gen_pixlsize))
         else:
